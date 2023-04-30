@@ -7,3 +7,4 @@
 5. TTY: http://www.linusakesson.net/programming/tty/
 6. GCC FLAGS: https://caiorss.github.io/C-Cpp-Notes/compiler-flags-options.html
 7. Upanishad Translations: https://www.celextel.org/site_index/
+8. Android ADB Tools: https://developer.android.com/tools/adb
