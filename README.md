@@ -9,3 +9,4 @@
 7. Upanishad Translations: https://www.celextel.org/site_index/
 8. Android ADB Tools: https://developer.android.com/tools/adb
 9. scrcpy (control android device from pc) : https://github.com/Genymobile/scrcpy
+10. css games: https://nikitahl.com/learn-css-by-playing-games
