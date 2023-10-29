@@ -1,0 +1,10 @@
+cat /etc/X11/xorg.conf.d/50-synaptics.conf
+Section "InputClass"
+        Identifier      "touchpad catchall"
+        MatchIsTouchpad "on"
+        MatchDevicePath "/dev/input/event*"
+        Driver          "synaptics"
+        Option          "PalmDetect"          "1"
+        Option          "PalmMinWidth"        "5"
+        Option          "PalmMinZ"            "100"
+EndSection
